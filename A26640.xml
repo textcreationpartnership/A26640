@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short testimony concerning that faithful servant of the Lord, Thomas Aldam of Warnsworth in the county of York who in patience and tribulation was a follower of the Lamb, finished his course in the truth, and departed this life in the fourth month in the year 1660 : something also concerning Mary his wife, and also concerning Margaret Kellam, and Joan Kellam, his two sisters : with a few words in exhortation to such as are the children of believing parents, or are more lately com'd to be convinced of the truth / given forth in the sense of the great love of God, which hath visited his people in this our age and day, by Thomas Aldam, son to the abovesaid Thomas Aldam.</title>
+            <author>Aldam, Thomas, 1649-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26640</idno>
+            <idno type="STC">Wing A894D</idno>
+            <idno type="STC">ESTC R36721</idno>
+            <idno type="EEBO-CITATION">15993138</idno>
+            <idno type="OCLC">ocm 15993138</idno>
+            <idno type="VID">104702</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104702)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1083:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short testimony concerning that faithful servant of the Lord, Thomas Aldam of Warnsworth in the county of York who in patience and tribulation was a follower of the Lamb, finished his course in the truth, and departed this life in the fourth month in the year 1660 : something also concerning Mary his wife, and also concerning Margaret Kellam, and Joan Kellam, his two sisters : with a few words in exhortation to such as are the children of believing parents, or are more lately com'd to be convinced of the truth / given forth in the sense of the great love of God, which hath visited his people in this our age and day, by Thomas Aldam, son to the abovesaid Thomas Aldam.</title>
+                  <author>Aldam, Thomas, 1649-1723.</author>
+               </titleStmt>
+               <extent>[2], 7-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[T. Northcott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher and date of publication suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: pages cropped, with loss of imprint.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aldam, Thomas, d. 1660.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104702:1"/>
+            <p>A SHORT TESTIMONY Concerning that Faithful Servant of the Lord Thomas Aldam OF <hi>WARNSWORTH</hi> in the County of <hi>YORK;</hi> WHO In Patience and Tribulation was a Follower of the Lamb, finiſhed his Courſe in the Truth, and departed this Life in the Fourth Month in the Year 1660.</p>
+            <p>Something alſo concerning <hi>Mary</hi> his Wife; and alſo concerning <hi>Margaret Kellam,</hi> and <hi>Ioan Kellam,</hi> his two Siſters.</p>
+            <p>With a few Words in Exhortation to ſuch as are the Children of believing Parents, or are more lately com'd to be convinced of the Truth.</p>
+            <p>Given forth in the Senſe of the great Love of God, which hath viſited his People, in this our Age and Day.</p>
+            <p>
+               <hi>By</hi> Thomas Aldam <hi>Son to the aboveſaid</hi> Thomas Aldam.</p>
+            <q>
+               <p>Say ye to the Righteous, that it ſhall be well with him, for they ſhall eat the fruit of their doings. Wo unto the Wicked, it ſhall be ill with them; for the reward of his hands ſhall be given him, <bibl>
+                     <hi>Iſa. 3.10, 11.</hi>
+                  </bibl>
+               </p>
+               <p>The memory of the juſt is bleſſed, but the name of the wicked ſhall rot, <bibl>
+                     <hi>Prov. 10.7.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:104702:2"/>
+            <head>
+               <hi>G. F</hi>'s Teſtimony concerning <hi>Tho. Aldam.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>NOW concerning this Friend and Brother in Christ Jeſus,</hi> Thomas Aldam, <hi>which his Son, a hopeful Young Man hath given a ſhort Breviat of his Sufferings, Impriſonments, and Spoiling of Goods, and Beatings. Indeed his Sufferings were very many; for he often jeopar<g ref="char:EOLhyphen"/>diz'd his Life with me, for the Name of Chriſt and his precious Truths ſake; and underwent a great deal of Sufferings and Impriſonments by the Covetous Hireling Prieſts, who are out of the Doctrin and Com<g ref="char:EOLhyphen"/>mand of Chriſt, who ſaith,</hi> freely you have received, freely give, <hi>which he was moved to declare againſt: But while he put in the Prieſts mouth of his own Pariſh, he preacht Peace to him, but when he could not, he prepared War againſt him; as you may ſee in his Sons Relation, as alſo did the Impropriator. And when the Lord moved him to reprove Sin in the Gates, and in the Markets, Fairs, and Steeple-houſes, then he was made a prey upon; then he found the best of the outward Profeſſors as a Bryer, and the moſt upright of them ſharper than a Thorny Hedge; but their Viſitation came upon them, and their Perplexity was fulfilled upon them from the Lord, which they were warned of beforehand; and greatly was he Exer<g ref="char:EOLhyphen"/>ciſed with the Justices at the Seſſions, and Judges at the Aſſizes; and</hi> Oliver Cromwell, <hi>warning them all that they might do Juſtice, and of the grea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> day of the Lord that was coming upon them, and not to Impriſon, Perſecute, and ſpoil the Goods of Gods People, but to ſet them at Liberty; but many were hardened and would not, till K.</hi> Charles <hi>the</hi> II. <hi>came in, and then many o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> them were turned out of their places, Prieſts and Justices. 'Tis almoſt hard to be uttered what Sufferings of all ſorts by Profeſſors, Prieſt and Profane, this Servant of the Lord went through for the Name of Chriſt; but the Lord with his Eternal Arm and Power upheld him over all, and carryed him through all, ſo that he died in the Lord, and</hi> Bleſſed are all they that die in the Lord, for they ceaſe from their Labors, and their Works fol<g ref="char:EOLhyphen"/>low them; and he that Believeth, though he was Dead yet ſhall he Live, and he that Liveth and Believeth ſhall not Die. <hi>And ſeveral Years did this</hi> Tho. Aldam <hi>labor in the Goſpel of Chriſt and Preacht it freely, and called others both ſmall and great to come and taſt how good Gods word was,</hi> and take of the Waters of Life freely, without Mony and without Price; <hi>and ſtrove and laboured to keep the Everlasting Goſpel of Chriſt without charge; and that was it that made the Covetous Hireling Prieſts, and them that held them up, in ſuch a rage against this Servant of Christ, who ſaid,</hi> freely ye have received, freely give; <hi>and Christs Servants did not Impriſon nor Spoil the Goods of any, but ſuch kept and keep the Testimony of Jeſus, that he ſends to declare his free Grace and Goſpel, and Love him and keep his Commandments.</hi>
+                  </p>
+                  <closer>
+                     <signed>G. F</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="7" facs="tcp:104702:2"/>And as I ſaid before, my Father was much Exerciſed in going to bear Teſtimony to the Truth, and againſt ſuch as Preached for Hire; ſo I ſhall here give ſome accompt of ſeveral Steeple-houſes which he was at, to bear Teſtimony to the Truth, after he was ſet at liberty from his Impriſonment.</p>
+            <p>Upon the firſt day in the Aſſize time, he went into <hi>York-minſter,</hi> and ſtanding near unto the Prieſt, with his Face towards him; there was he they called Lord Mayor, Judge <hi>Parker,</hi> Judge <hi>Newdigate,</hi> and ma<g ref="char:EOLhyphen"/>ny Country Juſtices all placed in Seats, before whom he ſtood as a wonder to many; during the time of the Prieſts Preaching and Pray<g ref="char:EOLhyphen"/>ing, there was one rude man that preſſed to have pulled his Hat off his Head, another who was Noting down the Sermon, nipt him by the Arms and puncht him with his Feet, whilſt he wept to ſee the great Superſtition and Abomination brought forth in that place, which he ſtood a Witneſs againſt, whoſe Spirit was grieved; and after the Prieſt had done, he ſpoke to ſome of the Heady and High-minded ones, as alſo to others of the under ſort, who had in times paſt ſmitten him in that place, and then he paſſed away thorow the Streets with the Judges, to the place were they ought to do Juſtice, and was preſerved from the rude multitude.</p>
+            <p>Another time for Speaking in the Steeple-houſe of <hi>Warnſworth,</hi> he was haled out by the Conſtable and him called Church warden.</p>
+            <p>Another time he went into the Steeple-houſe at <hi>Hatfield,</hi> and there ſpoke of the things of God, but the rude multitude haled him forth and ſmote him.</p>
+            <p>He alſo went to the Steeple-houſes at <hi>Wickerſley</hi> and <hi>Edlington,</hi> and for declaring the Truth there, was by the rude People ſcoffed, mock<g ref="char:EOLhyphen"/>ed, and reproached; but there were ſome ſober minded People, in whom much moderation did appear.</p>
+            <p>Another time he went into <hi>Tickhill</hi> Steeple-houſe, and ſpoke of the things of God, but the Prieſts Flock put him forth and ſmote him, and ſpit in his Face: Mark well what Spirit they were of, that thus in<g ref="char:EOLhyphen"/>treated the Servant of the <hi>Lord.</hi>
+            </p>
+            <p>Another time he went into the Steeple-houſe at <hi>Bawtry</hi> and Speak<g ref="char:EOLhyphen"/>ing in that place (after the Prieſt had done his Sermon) of the things of God revealed unto him, he was by ſome of the rude multitude ſmitten with their Fiſts and punched with their Feet.</p>
+            <p>Another time he going into <hi>Doncaster</hi> Steeple-houſe, and declaring the Truth, he was haled forth by the rude People, and not ſuffered to ſtay within that place, although thoſe called Church-wardens of that place had Three ſeveral times diſtrained his Goods, for up<g ref="char:EOLhyphen"/>holding that Houſe<g ref="char:punc">▪</g> Oh what Iniuſtice!</p>
+            <p>
+               <pb n="8" facs="tcp:104702:3"/>Another time he going into <hi>Thorne</hi> Steeple-houſe, ſtood before the Prieſt <hi>(Jo. Haworth)</hi> who commanded the Conſtable to take out that rude uncivil fellow, which came ſo uncivilly in and made a di<g ref="char:EOLhyphen"/>ſturbance; the Conſtable being of a noble Spirit, anſwered he di<g ref="char:EOLhyphen"/>ſturbeth no man nor doth any man harm; ſo when the Prieſt had done his Sermon, he Spoke and bore Teſtimony of the things God revealed unto him; wherefore ſome of the rude ſort ſmote him with their Tongues, as their Prieſt had done, as alſo with their Fiſts, and punched him with their Feet, and ſpit upon him and put him forth of the place called their Church; theſe things did they, upon that day they call their Sabbath-day.</p>
+            <p>He went alſo into the Steeple-houſe at <hi>Hanſworth,</hi> and there ſtood and kept ſilence, until the Prieſt <hi>(Carr)</hi> had ended his Service, as its called; afterwards he ſpoke in that place, (his Wife my Mo<g ref="char:EOLhyphen"/>ther being then there alſo, who had before in that place declared the Truth) and he ſeeing the rude multitude ariſing in a tumultuous manner, cryed aloud, do Juſtice and ſee the peace be kept; which after he had ſpoken, a rude young Man put his Hat off his Head, and pulled him by the Hair of his Head; another ſmote him with his Fiſt; others ſpit in his Face, and haled him out of that place unto the Town-Clerks houſe, where the Conſtable kept him and his Wife Priſoners for a certain time.</p>
+            <p>Another time he went into the ſaid Steeple-houſe at <hi>Hanſworth</hi> and ſpoke of the things of God revealed unto him, bearing witneſs that he owned what was of God, and that he was not one which what was not of God; for which words ſpeaking, he was laid hands on by the Neck and Throat, Shaken and held by the Hair of the Head by a rude man, who ſaid he would loſe his Life rather than that fellow ſhould Speak in the Church; alſo other ſome of the rude ſort, ſmote him with their Fiſts and Feet, and as they haled him out of the Steeple-houſe, ſome of them ſmote his Legs from under him ſo that he fell to the Ground, and they trod upon his Back and Legs with their Feet; he was much bruiſed and had his Cloaths rent: The Prieſt went away, leaving the Sufferer amongſt the rude Multitude, who was in danger of his Life to be deſtroyed amongſt them. Oh! mark the fruits, ſurely they betoken not right Chriſtianity: No, no, its Antichriſtian, yea of and from the wicked one, who was a Mur<g ref="char:EOLhyphen"/>derer like <hi>Cane.</hi>
+            </p>
+            <p>The ſame day in the Afternoon he went into the Steeple-houſe at <hi>Roſington,</hi> and there Spoke to the People; then one <hi>Hen. Barton,</hi> called a Church-warden, there with his Fiſt ſmote him upon the Cheek, who turned to him the other; but ſome of the ſober minded
+<pb n="9" facs="tcp:104702:3"/>
+People ſeeing his rudeneſs, laid hands on the ſaid <hi>Henry,</hi> and held him that he might ſmite no more.</p>
+            <p>Another time, going to the Steeple-houſe at <hi>Pontefract,</hi> about when the Seſſions was to be held in the Town, in which were at that time many called Juſtices, to whom the Prieſt made a Sermon, and after he had done, my Father began to Speak of the things of God, but the rude multitude would not ſuffer him, but haled him away and ſmote him.</p>
+            <p>Another time, going into the Steeple-houſe of <hi>Warnſworth,</hi> upon a Firſt day; after the Prieſt <hi>Thomas Rookby</hi> had done his Service, as he called it, he read a Bill of Declaration, which that Prieſt had put into Court againſt him for not paying Tyths, in which Bill was many lies; the Prieſt coming by him, ſaid Sirrah, Sirrah, you have broken the Law, then commanded the Conſtable to take him away; and the rude ſort kicked him with their Feet, and ſmote him with their Fiſts, and endeavoured to have rent the Bill in which was written, that <hi>Thomas Aldam</hi> had led away Thirty one Loads of Oats, which was of the Prieſt Tyths, whereas there was not Three; that was one of the ſaid Prieſts lies, in his Bill of Declaration, beſides many more.</p>
+            <p>Another time he went into the ſaid Steeple-houſe at <hi>Warnſworth,</hi> and bore Teſtimony to the Truth, for which the ſaid <hi>Thomas Rookby</hi> got a Warrant againſt him, from ſome called Juſtices, and he was had before them; but the Witneſſes which were againſt him, they were ſo confounded in their Teſtimonies, that he was deliver-out of the Snare which was laid for him, the Prieſt uſing his endeavours to have had him ſent to Priſon, but the Lord preſer<g ref="char:EOLhyphen"/>ved him out of his hands.</p>
+            <p>Theſe are ſome of the Sufferings and Exerciſes which my Fa<g ref="char:EOLhyphen"/>ther met withal in bearing Teſtimony to the Truth, and againſt ſuch as ran when the <hi>Lord</hi> did not ſend them, and therefore did not profit the People at all.</p>
+            <p>And further, he being called at an Aſſizes at <hi>York</hi> (in the Year 1655.) to the Barr, before Judge <hi>Windham,</hi> one <hi>Philip Prince</hi> a Lawyer, took his Hat from off his Head, and kept it contra<g ref="char:EOLhyphen"/>ry to Juſtice; afterwards he did appeal to the Judge for Juſtice in the Caſe, which thing he did conſent to in private, but at the end of the Aſſizes, he requiring Juſtice, that <hi>Philip Prince</hi> might be brought to the Barr, who had taken his Hat and kept it; then Judge <hi>Windham</hi> broke forth into much paſſion, and ſaid, Sirrah, Sirrah, you may have your Hat again; to whom he Anſwered<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#OXF" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:104702:4"/>
+otherwiſe I cannot receive it; Judge <hi>Windham</hi> would have had the Hat reſtored, but would not have had <hi>Philip Prince</hi> condem<g ref="char:EOLhyphen"/>ned or reproved for an evil doer in that matter; ſo the Sufferer loſt his Hat, for want of Juſtice to be had upon the Tranſ<g ref="char:EOLhyphen"/>greſſer; and the ſaid <hi>Thomas Aldam</hi> (my Father) went Seven Months without a Hat, in obedience to the Command of God, with his Head uncovered, who was a wonder and a ſign to all who were covered, and not with Juſtice; whoſe Service to God was accepted, which the Proud, Lofty, High-minded profeſſing Perſecutors, and Oppreſſers could not ſee.</p>
+            <p>Another time he being at <hi>Doncaſter-Market,</hi> and there decla<g ref="char:EOLhyphen"/>ring the Truth, he was ſore abuſed, and had his Head broken by a rude man. Theſe and many other hardſhips and beatings he ſuffered of his own Country-men, for ſeeking the honour of God and his Truth, and the peace, happineſs and well being of their immortal Souls; becauſe of which the Devil, that wicked one raged, and poured forth floods of violence and cruelty, to deſtroy the Birth brought forth by the Lord in him: But the <hi>Lord</hi> being his refuge and hiding place, he dwelt in ſafety, where his Enemies could not prevail againſt him, for though he was perſecuted and ſmitten of Men, yet was he owned and beloved of the <hi>Lord,</hi> which made his Soul to rejoice, that his lot was fallen in this good Land, and that he was not only call'd to Believe, but counted worthy to Suffer for <hi>Chriſts</hi> ſake, knowing that all ſuch as will live Godly in <hi>Christ Jeſus,</hi> muſt ſuffer Perſecution; his reproaches being unto them great Riches.</p>
+            <p>And further, as he was freely given up in Life, Body and Eſtate, to ſuffer for the moſt precious Truth of <hi>Christ,</hi> ſo alſo was he much concerned in his day, with ſuch as were the then Rulers of the Nations; he being often moved of the Lord to lay before them, the Sufferings of Gods innocent People, by rea<g ref="char:EOLhyphen"/>ſon of which, and for the ſpreading of the Truth, many were the trials which he underwent, going often times to <hi>Oliver Crom<g ref="char:EOLhyphen"/>well,</hi> and ſuch as were in Power with him, whom he many times warned as from the Lord, to harken to the cry of his poor Oppreſſed People, and under the heavy Burdens under which they lay; or otherwiſe if they would not, he ſignified unto them the <hi>Lord</hi> would cut them off, and that ſpeedily. And at one time he was moved to take his Cap from off his Head, and to rent it in pieces before <hi>Oliver Cromwell,</hi> as a Sign to him, that the Govern<g ref="char:EOLhyphen"/>ment ſhould be rent from him; and ſuch as were not covered with the ſpirit of the <hi>Lord</hi> which things he ſaw fulfilled before he Depart<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:104702:4"/>He was alſo moved of the <hi>Lord</hi> to Travel into <hi>Scotland</hi> and <hi>Ireland,</hi> and went to the chief Rulers there upon the accompt aforeſaid.</p>
+            <p>Another time he went to all or moſt of the Priſons in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> where there was any of the people of God called Qua<g ref="char:EOLhyphen"/>kers in Priſon, to take a perfect accompt of the number of them, that ſo being an eye Witneſs of their Sufferings, he might be more capable of laying their Caſes before the then Rulers; yea, he was freely given up to ſpend and be ſpent upon the Truths accompt, being always willing at the Aſſizes, Seſſions or elſewhere to appear to plead the cauſe and help to bear the burden of Gods Suffering people, it being unto him as his Meat and Drink to be found in Truths ſervice, doing the ſame chearfully and of a ready mind, being one to whom the Commandments of <hi>Christ Jeſus</hi> were not grievous but joyous.</p>
+            <p>He was always one that had a tender regard to Unity amongſt Friends, and never known to joyn with any which deviated from Truths Teſtimony, ever bearing a good eſteem in his mind for ſuch as Laboured and Traveled in the Goſpel, and eſpecially for him whom the <hi>Lord</hi> raiſed at firſt to be an In<g ref="char:EOLhyphen"/>ſtrument, to beget him (with many others) to the <hi>Lord;</hi> ſo that in reading, though it had been but Two or Three lines, which had been ſent him from him, his Heart would have been broken. And when I do remember the fervency of Spirit which did attend him, and how when he had been to take any Journey upon Truths accompt, he would have called his Wife and Children, in great tenderneſs and humility, have bowed his Knees before the <hi>Lord,</hi> and poured out his ſupplications unto him (before his departure from us) deſiring earneſtly that the <hi>Lord</hi> might go with him, and committing us into his keep<g ref="char:EOLhyphen"/>ing; and what brokenneſs of Heart was amongſt us at ſuch times, and how the love of God did abound; then can my Soul ſay, thoſe were precious Seaſons, and are not to be for<g ref="char:EOLhyphen"/>gotten by us, but to be recorded to poſterity, that we may tell our Children, and they alſo may declare it when we are gone, how good the <hi>Lord</hi> hath been unto his People, and what great cauſe they have to love him, and put their truſt in him, that ſo his name may be renowed amongſt our Families, ſo long as they ſhall have a being.</p>
+            <p>
+               <pb n="12" facs="tcp:104702:5"/>And now after theſe his Exerciſes, the time of his depar<g ref="char:EOLhyphen"/>ture drawing near, he was viſited with Sickneſs, in which time he ſet his Houſe in order, and in the time of his Weakneſs the <hi>Lord</hi> was good unto him, and eminently appeared with him; ſo that one time he did ſay to his Siſter (though near his latter end) walking up and down in the Houſe, that he found his Strength ſo renewed, that he believed he could go to <hi>London,</hi> if the <hi>Lord</hi> required it, but anſwered again, I am clear of the Blood of all men: I find nothing to this Man, meaning King <hi>Charles</hi> the II. he was very ſenſible to his latter end, and the day he died called for us his Children, and ad<g ref="char:EOLhyphen"/>viſed us to live in the fear of God, and to Love and Obey our Mother; and ſo being freely reſigned into the hands of his Creator he departed this Life.</p>
+            <p>And about Three Months after, <hi>Mary</hi> his Wife (my Mo<g ref="char:EOLhyphen"/>ther) departed this Life, who was a Woman that truly feared God, and ſerved him in her Day and Generation; and in all the Exerciſes which my Father paſſed through in thoſe early days, I never heard ſhe once grudged or repined, being of a very meek and quiet Spirit, given up in all things to Gods diſ<g ref="char:EOLhyphen"/>poſing; her remembrance is ſweet, and her name to be record<g ref="char:EOLhyphen"/>ed amongſt the Faithful of Gods People: She was convinced of the Everlaſting Truth, at the ſame time my Father was con<g ref="char:EOLhyphen"/>vinced, and through the Same Inſtrument; and bore Teſtimony to the ſame, according to her meaſure.</p>
+            <p>My Father had alſo Two Siſters, the one called <hi>Margaret Kellam,</hi> the other <hi>Joan Kellam,</hi> who were alſo convinced at the ſame time by <hi>G. F.</hi> and were Two Faithful Women in their day; the ſaid <hi>Margaret</hi> travelled much in Truths ſervice, in the breaking forth of the ſame, and many were convinced by her: She ſuffered Impriſonment in ſeveral places, as at <hi>Exeter</hi> in <hi>Devonſhire,</hi> where ſhe was fully Accuſed, and the envy of ſome ſuch againſt her, as they ſought her Life, out the <hi>Lord</hi> delivered her; ſhe was alſo Priſoner at <hi>Barbary,</hi> and in <hi>York-Caſtle,</hi> for declaring the Truth; yea, great was the boldneſs that did attend her, in ſounding forth the Truth in the Streets, Steeple-houſes and Market-places, and to the Heads and Rulers of the People, and the <hi>Lord</hi> was with her. She finiſhed her courſe in Faith, ſignifying (to a near Relation) before her depar<g ref="char:EOLhyphen"/>ture, the great peace ſhe enjoyed with the <hi>Lord,</hi> and the clearneſs of Conſcience ſhe had before him; ſhe laid down the Body in the <gap reason="illegible" resp="#OXF" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:104702:5"/>
+               <hi>Joan Kellum</hi> was alſo a Woman that truly feared the <hi>Lord,</hi> a good Example and Pattern where God had placed her; one of a ſound Judgment, and well Experienced in the Work of the <hi>Lord,</hi> Zealous for his Honour, and Faithful to Truths Te<g ref="char:EOLhyphen"/>ſtimonies, ready to encourage and ſtir up to Diligence and Stedfaſtneſs, ever watching over thoſe that were Young, and endavouring to inſtruct them in the right way of the Lord; ſhe was one that could ſpeak a word in due ſeaſon to an af<g ref="char:EOLhyphen"/>flicted Soul, having paſt through many depths, and ſeen the wonders and goodneſs of the <hi>Lord</hi> therein; ſhe was even as a Mother in <hi>Iſrael,</hi> and would ſympathize with the leaſt of Gods ſuffering Children; in the remembrance of her, and of the ſweet Communion which my Soul many times hath had with her, when in openneſs of Heart we have Declared one to another, what the Lord had done for us, I have cauſe to bleſs the Lord; and though theſe our Friends and near Relations be outwardly removed from us, yet their Spirits live with us, even amongſt ſuch as are comed to have Unity with the Spi<g ref="char:EOLhyphen"/>rits of juſt men made perfect, and theſe can ſay, their Memo<g ref="char:EOLhyphen"/>rial is Bleſſed, and their Names to be recorded amongſt the Righteous, for they died in the Lord, and are at reſt from their Labours, and their Works do follow them. In the time of her Sickneſs ſhe was very well diſpoſed, and gave good ad<g ref="char:EOLhyphen"/>vice to them which were left behind her, that in Faithfulneſs they might perſevere to the finiſhing of that Work which the Lord had for them to do. She departed this Life in the Year 1681.</p>
+            <p>And now in the remembrance of theſe, and many other Faith<g ref="char:EOLhyphen"/>ful Servants of the Lord, who have obtained a good report through that precious Faith which was once delivered to the Saints, for which they in their day earneſtly contended and ſuffered many and great hardſhips in the openings of Life. I find at this time a few Words ſpringing up in my Heart by way of Exhortation, to ſuch as are the Children of Believing Parents, or are more lately com'd to be convinced of the Truth, that they may all prize the Day of their Viſitation and make a good uſe of the Mercies which the <hi>Lord</hi> hath beſtowed upon them, that they may keep the Foot-ſteps of the Flock of God, and take ſuch for Examples, as walk in that pure and ſtrait way, into which the Lord at the firſt brought theſe and many other of his People, and that none may ſlight, under<g ref="char:EOLhyphen"/>value
+<pb n="14" facs="tcp:104702:6"/>
+or let fall, the Teſtimonies of Truth, which have been born by ſuch as God at firſt viſited amongſt us, conſidering what great hardſhips and ſufferings they paſſed thorow, who bore the heat of the Day through theſe things; many of them hazarding their Lives, Liberties and Eſtates, in bearing Te<g ref="char:EOLhyphen"/>ſtimony to the day of the <hi>Lord,</hi> and the coming of his <hi>Chriſt,</hi> againſt ſuch as would have kept the People of God in Bon<g ref="char:EOLhyphen"/>dage, and not have ſuffered them to have gone free to ſerve him, but as the Lord in thoſe days did appear wonderfully with his People, in giving them Dominion and Victory over their Adverſaries (through patient Suffering.) Now let it be the care of us, who are a Succeeding Generation to them (and comes to enter to the fruits of their Labours, Exerciſes and Travels,) that we may ever in Humility dwell before the Lord, and keep that which is commited to our truſt, ſtanding faſt to that Liberty wherewithal Chriſt hath made his follow<g ref="char:EOLhyphen"/>ers free; and beware of being intangled any more with the Yoke of Bondage, keeping out of the Spirit of this World, and the Cuſtoms and Faſhions therein, with the Friendſhip there<g ref="char:EOLhyphen"/>of, which is enmity with God; which whilſt ſome have lookt at and gone after, they have loſt the right way of the Lord. and have let fall the Teſtimonies which their Fathers and near Friends have paſſed through ſuch great things for, and as much as in them lies, would make their Sufferings and Travels of no effect. When I take a view of the ſad eſtate of ſuch, my Soul cannot but mourn over them, deſiring that all ſuch to whom there is yet a day of Viſitation continued, may ſpeedily return to the Lord, (that if happily they may find Mercy with him) and again put their hands to Gods Plow, taking Chriſts Yoak upon them which is eaſie and his burden which is light, and learn of him who is meek and low in Spirit, that they may find reſt to their Souls; but if they will not turn at his re<g ref="char:EOLhyphen"/>proof, but ſtill revolt more and more, going on in their back<g ref="char:EOLhyphen"/>ſliding ways; this let them know, that the Day of the Lord will overtake them, in which he will require his own from them, and it will be more tollerable for <hi>Sodom</hi> and <hi>Gomorrah</hi> in the day of Judgment than for them.</p>
+            <p>But all you whoſe Faces are ſtill <hi>Sion</hi> ward, and it is in your Hearts to keep the word of Gods Patience, and the Te<g ref="char:EOLhyphen"/>ſtimonies of <hi>Jeſus,</hi> be ye comforted in the <hi>Lord,</hi> and let your Souls with mine Bleſs and Magnifie his Name, that he was
+<pb n="15" facs="tcp:104702:6"/>
+pleaſed in his unſpeakable Love, to viſit our Families and Fa<g ref="char:EOLhyphen"/>thers Houſes, in that great and notable Day of the breaking forth of his Glory, and thereby hath ſtained and removed from amongſt the remnant of his People, the Beauty and Glory of this World; ſo that now to them there is nothing to be com<g ref="char:EOLhyphen"/>pared with his Love, which is not enjoy'd but as we keep his Commandments. Oh now let us priue our time, and make our cal<g ref="char:EOLhyphen"/>ling and election ſure, and wait to know an increaſe in the in<g ref="char:EOLhyphen"/>creaſe of God, for this is a day wherein the Lord is looking for Fruits, and every Tree which doth not bring forth good Fruit, ſhall be hewn down and caſt into the Fire; and therefore all keep to the pure Spirit of God in your own Hearts, which is that Teacher that cannot be removed into a corner; and as you are here found waiting, you will be made wiſe to Salvation, and the Lord will ſeal up his Laws, and bind up his Teſtimonies yet more and more unto your Souls, and you will be kept and preſerved in a due regard to his Honour, following the Foot<g ref="char:EOLhyphen"/>ſteps of Chriſts Flock, and ſo you will come to know the Shep<g ref="char:EOLhyphen"/>herds Tents, where you may all ſit under your own Vine, and under your own Fig-tree, where none can make you afraid; your Bread will be ſure, and your Water will not fail; the munition of Rocks will be your Defence, and the Lord God Omnipo<g ref="char:EOLhyphen"/>tent coming to take the Dominion in your Hearts to himſelf, you will feel that joy, which is unſpeakable and full of Glory, and this is the Lord making his Babes and little ones, in a mea<g ref="char:EOLhyphen"/>ſure witneſſes of, ſo that they can ſay, their lot is fallen in a good Land, and their beloved is the chiefeſt of ten thouſands; their redeemer is the holy one of <hi>Iſrael,</hi> their God is the God of the whole Earth, Bleſſed and Magnified be his Name for ever and ever<g ref="char:EOLhyphen"/>more: He it is that hath ſet bounds to the Sea, that the ſwelling Waves thereof ſhould not ſurmount their Banks, and a Hair of the Heads of his Servants ſhall not fall to the Ground, without his Divine Providence; and therefore let us all be encouraged to be ſted<g ref="char:EOLhyphen"/>faſt in the Faith, and never to be moved from the hope of the Goſpel, keeping up our Teſtimonies in our ſeveral places, to the Truth as it is in Jeſus; then will the Lord our God ſtill take plea<g ref="char:EOLhyphen"/>ſure in us, and honour us with his loving Preſence, making us inſtruments in his hand for the ſhewing forth of his Praiſes: And that thus it may pleaſe the Lord to pour yet more abundantly of the Spirit of Wiſdom and Holy Underſtanding upon his Sons and Daughters, his Handmaids and Servants, that hereby they
+<pb n="16" facs="tcp:104702:7" rendition="simple:additions"/>
+may be preſerved as lights in their ſeveral ſtations where God hath placed them, with well doing; putting to ſilence the ignorance of fooliſh men, is the deſire of him who is as one of the leaſt amongſt Gods People, yet in ſome meaſure hath obtained Favour and Mercy from the Lord, to bear Teſtimony of his goodneſs and to his unchangeable Truth, for which my Soul is truly Thankful and aſcribed unto him the Glory, who over all is worthy of the ſame for ever and for evermore.</p>
+            <closer>
+               <dateline>
+                  <hi>Written</hi> 
+                  <date>
+                     <hi>the</hi> 20th. <hi>of the</hi> 9th. <hi>Month,</hi> 1689.</date>
+               </dateline>
+               <signed>Thomas Aldam.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
